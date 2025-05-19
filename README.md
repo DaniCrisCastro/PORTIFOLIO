@@ -1,4 +1,4 @@
-# 🌐 Portfólio Pessoal – José de Anchieta do Nascimento Albano
+# 🌐 Portfólio Pessoal – Danielle Cristina de Souza Castro
 
 Este é um projeto de site pessoal desenvolvido como parte do **Curso Capacita C-Jovem**. O site apresenta meu portfólio, experiências, habilidades, aprendizados e formas de contato profissional.
 
